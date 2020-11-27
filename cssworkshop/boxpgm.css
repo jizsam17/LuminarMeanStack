@@ -1,0 +1,52 @@
+h2{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+div{
+    position: absolute;
+    height: 328px;
+}
+#one{
+    border-style: solid;
+    border-color: brown;
+    background-color: brown;
+    width: 10%;
+    margin-left: 300px;
+}
+
+#two{
+    border-style: solid;
+    border-color:burlywood;
+    background-color:burlywood;
+    width: 10%;
+    margin-left: 475px;
+}
+
+#three{
+    border-style: solid;
+    border-color:cadetblue;
+    background-color: cadetblue;
+    width: 10%;
+    margin-left: 650px;
+}
+
+#four{
+    border-style: solid;
+    border-color: chartreuse;
+    background-color: chartreuse;
+    width: 10%;
+    margin-left: 825px;
+}
+
+#five{
+    border-style: solid;
+    border-color: chocolate;
+    background-color: chocolate;
+    width: 10%;
+    margin-left: 995px;
+}
+
+h1{
+    text-align: center;
+}

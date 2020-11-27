@@ -1,0 +1,35 @@
+h2{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+table{
+    height: 328px;
+    column-gap: 20%;
+    margin-left: 500px;
+}
+
+td{
+    width: 100px;
+    align-self: center;
+}
+#one{
+    background-color: chocolate;
+    
+}
+
+#two{
+    background-color: coral;
+}
+
+#three{
+    background-color: cornflowerblue;
+}
+
+#four{
+    background-color: crimson;
+}
+
+#five{
+    background-color: cyan;
+}

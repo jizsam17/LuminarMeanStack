@@ -1,0 +1,51 @@
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+
+#one{
+    color:rgb(64, 189, 122);
+}
+
+div{
+    border-style: solid;
+    border-color: yellow;
+    border-width: 3px;
+    background-color: rgb(73, 221, 86);
+    width:20%;
+    margin:auto;
+    color: rgb(1, 1, 7);
+    text-align:center;
+}
+
+#mi{
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    background-color:rgba(221, 224, 41,0.5);
+    width: 20%;
+}
+
+.team{
+    border-style: solid;
+    border-color: lightslategrey;
+    border-width: 3px;
+    width: 20%;
+    background-color: magenta;
+}
+body{
+    background-image: url(ipl.jpg);
+    background-size: cover;
+}
+
+div h3{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+li{
+    margin-left:100px;
+}

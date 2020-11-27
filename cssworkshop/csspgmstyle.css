@@ -1,0 +1,11 @@
+.one{
+    color:teal;
+}
+
+#two{
+    border-style: double;
+    border-color: orangered;
+    width: 10%;
+    color: purple;
+    text-align: center;
+}

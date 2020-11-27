@@ -1,0 +1,20 @@
+#top{
+    border-style: solid;
+    border-color: blue;
+    border-width: 6px;
+    width: 50%;
+    margin-left: 480px;
+    padding-left: 10px;
+}
+#bottom{
+    border-style: solid;
+    border-color: brown;
+    border-width: 6px;
+    width: 50%;
+    margin-top: 400px;
+    margin-left: 360px;
+}
+
+#wel{
+    font-family: 'Playfair Display', serif;
+}
